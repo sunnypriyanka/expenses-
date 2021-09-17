@@ -1,3 +1,12 @@
+# Expenses
+
+### Developed by ` Priyanka ` with React
+
+# screenshot : 
+
+![expenses](https://user-images.githubusercontent.com/88229034/133721790-bf74ad28-8ed9-42de-9332-c2ecb531d9be.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
